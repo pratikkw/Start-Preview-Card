@@ -50,9 +50,9 @@ body {
 }
 
 .img__box > img {
-  opacity: 0.75;
+  opacity: 0.3;
   width: 100%;
-  mix-blend-mode: multiply;
+  /* mix-blend-mode: multiply; */
 }
 
 .main {
