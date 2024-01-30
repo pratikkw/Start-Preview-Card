@@ -44,9 +44,9 @@ body {
 }
 /* -------------- */
 .img__box {
-  background-color: var(--accent-clr2);
   overflow: hidden;
   border-radius: 9px 9px 0 0;
+  background-color: var(--accent-clr2);
 }
 
 .img__box > img {
